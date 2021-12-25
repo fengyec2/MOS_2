@@ -1,14 +1,14 @@
-# mos 2 Beta | 弃繁，从简
-
 <td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">mos 2 Beta | 弃繁, 从简</font></td>
+
+# mos 2 Beta | 弃繁，从简
 
 <font color="red">mos 2 一周岁快乐！
   
 <font color="red">作品以GPL v3协议开源，转载请注明出处！
 
-当前版本工程文件大小：19.87MB
+当前版本工程文件大小：37.96MB
 
-[先在这里求个投币QwQ]
+[先在这里求个[投币](https://www.ccw.site/detail/601d373c9baa5d5383685e68?inviteCode=J3eGePeA4xoXIDno)QwQ]
 
 # 简介
 
