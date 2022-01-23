@@ -24,7 +24,7 @@
 
 已上线功能：[计算器](https://github.com/fengyec2/mos-2)、[轻音乐](https://github.com/fengyec2/mos-2/)、[相机](https://github.com/fengyec2/mos-2/)、[用户中心](https://github.com/fengyec2/mos-2/)、[设置](https://github.com/fengyec2/mos-2/)、[Color Hop](https://github.com/fengyec2/mos-2/)、[跳一跳](https://github.com/fengyec2/mos-2/)、[3D立方体](https://github.com/fengyec2/mos-2/)、[方块跑酷](https://github.com/fengyec2/mos-2/)、[画板](https://github.com/fengyec2/mos-2/)。
 
-当前版本为[Release 2.1.1.022](https://github.com/fengyec2/mos-2/)，您将在这里见证mos 2成长的点点滴滴
+当前版本为[Release 2.1.1.024](https://github.com/fengyec2/mos-2/)，您将在这里见证mos 2成长的点点滴滴
 
 # 写在最后
   
