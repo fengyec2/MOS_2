@@ -1,4 +1,4 @@
-<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">mos 2 | 弃繁, 从简</font></td>
+<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">mos 2 | 宽屏新体验</font></td>
 
 # 简介目录
 <ul>
