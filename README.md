@@ -1,6 +1,14 @@
 <td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">mos 2 | 弃繁, 从简</font></td>
 
-# mos 2 | 弃繁，从简
+# 简介目录
+<ul>
+  <li>mos 2 | 宽屏新体验
+  <li>简介
+  <li>创作思路
+  <li>初衷
+  <li>写在最后
+
+# mos 2 | 宽屏新体验
 
 <font color="red">mos 2 一周岁快乐！
 
@@ -25,6 +33,14 @@
 已上线功能：[计算器](https://github.com/fengyec2/mos-2)、[轻音乐](https://github.com/fengyec2/mos-2/)、[相机](https://github.com/fengyec2/mos-2/)、[用户中心](https://github.com/fengyec2/mos-2/)、[设置](https://github.com/fengyec2/mos-2/)、[应用市场](https://github.com/fengyec2/mos-2/)、[Color Hop](https://github.com/fengyec2/mos-2/)、[跳一跳](https://github.com/fengyec2/mos-2/)、[3D立方体](https://github.com/fengyec2/mos-2/)、[方块跑酷](https://github.com/fengyec2/mos-2/)、[画板](https://github.com/fengyec2/mos-2/)。
 
 当前版本为[Release 2.2.1.035](https://github.com/fengyec2/mos-2/)，您将在这里见证mos 2成长的点点滴滴
+
+# 创作思路
+  
+构思mos 2主体—着手写桌面代码—构思如何打开关闭应用—真正添加应用—底层优化—应用优化—听取建议—继续优化
+
+# 初衷
+
+想把一些好玩有意思的程序集合在一起，方便使用，填充共创世界相关作品空白
 
 # 写在最后
   
