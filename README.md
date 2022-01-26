@@ -1,13 +1,21 @@
+
+***
+
 <td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">mos 2 | 宽屏新体验</font></td>
 
-# 简介目录
+***
+
+# 目录
+
 <ul>
-  <li>mos 2 | 宽屏新体验
-  <li>简介
-  <li>创作思路
-  <li>初衷
-  <li>写在最后
+  <li>mos 2 | 宽屏新体验</li>
+  <li>简介</li>
+  <li>创作思路</li>
+  <li>初衷</li>
+  <li>写在最后</li>
 </ul>
+
+***
 
 # mos 2 | 宽屏新体验
 
@@ -21,9 +29,11 @@
 
 [先在这里求个[投币](https://www.ccw.site/detail/601d373c9baa5d5383685e68?inviteCode=J3eGePeA4xoXIDno)QwQ]
 
+***
+
 # 简介
 
-完整更新日志见[Changelog](https://github.com/fengyec2/mos-2/blob/main/Changelog)
+`完整更新日志`：[Changelog](https://github.com/fengyec2/mos-2/blob/main/Changelog)
 
 <ul>
   <li>mos 2基于Scratch 3.0构建，是一款在Scratch上运行的模拟系统</li>
@@ -31,18 +41,26 @@
   <li>集成众多实用类工具及小游戏，让mos 2更上一层楼</li>
 </ul>
 
-已上线功能：[计算器](https://github.com/fengyec2/mos-2)、[轻音乐](https://github.com/fengyec2/mos-2/)、[相机](https://github.com/fengyec2/mos-2/)、[用户中心](https://github.com/fengyec2/mos-2/)、[设置](https://github.com/fengyec2/mos-2/)、[应用市场](https://github.com/fengyec2/mos-2/)、[Color Hop](https://github.com/fengyec2/mos-2/)、[跳一跳](https://github.com/fengyec2/mos-2/)、[3D立方体](https://github.com/fengyec2/mos-2/)、[方块跑酷](https://github.com/fengyec2/mos-2/)、[画板](https://github.com/fengyec2/mos-2/)。
+`已上线功能`：[计算器](https://github.com/fengyec2/mos-2)、[轻音乐](https://github.com/fengyec2/mos-2/)、[相机](https://github.com/fengyec2/mos-2/)、[用户中心](https://github.com/fengyec2/mos-2/)、[设置](https://github.com/fengyec2/mos-2/)、[应用市场](https://github.com/fengyec2/mos-2/)、[Color Hop](https://github.com/fengyec2/mos-2/)、[跳一跳](https://github.com/fengyec2/mos-2/)、[3D立方体](https://github.com/fengyec2/mos-2/)、[方块跑酷](https://github.com/fengyec2/mos-2/)、[画板](https://github.com/fengyec2/mos-2/)。
 
-当前版本为[Release 2.2.1.035](https://github.com/fengyec2/mos-2/)，您将在这里见证mos 2成长的点点滴滴
+`当前版本`：[Release 2.2.1.035](https://github.com/fengyec2/mos-2/)，您将在这里见证mos 2成长的点点滴滴
+
+***
 
 # 创作思路
   
 构思mos 2主体—着手写桌面代码—构思如何打开关闭应用—真正添加应用—底层优化—应用优化—听取建议—继续优化
 
+***
+
 # 初衷
 
 想把一些好玩有意思的程序集合在一起，方便使用，填充共创世界相关作品空白
 
+***
+
 # 写在最后
   
-制作不易，希望上个精选。目前唯一发布渠道：[共创世界](https://www.ccw.site/detail/601d373c9baa5d5383685e68?inviteCode=J3eGePeA4xoXIDno)
+制作不易，希望大家不要吝啬手中的三连。目前唯一发布渠道：[共创世界](https://www.ccw.site/detail/601d373c9baa5d5383685e68?inviteCode=J3eGePeA4xoXIDno)
+
+***
