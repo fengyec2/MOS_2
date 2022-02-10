@@ -29,7 +29,7 @@
 
 您也可以在 [GitHub](https://github.com/fengyec2/mos-2) 上给作者一个 Star
 
-当前版本工程文件大小：<font color="green">22.02MB，可放心食用
+当前版本工程文件大小：<font color="green">21.75MB，可放心食用
 
 ***
 
