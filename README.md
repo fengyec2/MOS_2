@@ -1,14 +1,14 @@
 
 ***
 
-<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">MOS 2 | 宽屏新体验</font></td>
+<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">MOS 2 | 底层优化ing</font></td>
 
 ***
 
 # 目录
 
 <ul>
-  <li>MOS 2 | 宽屏新体验</li>
+  <li>MOS 2 | 底层优化ing</li>
   <li>简介</li>
   <li>创作思路</li>
   <li>初衷</li>
@@ -17,7 +17,7 @@
 
 ***
 
-# MOS 2 | 宽屏新体验
+# MOS 2 | 底层优化ing
 
 [先在这里求个 [投币](https://www.ccw.site/detail/601d373c9baa5d5383685e68?inviteCode=J3eGePeA4xoXIDno) QwQ]
 
