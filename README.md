@@ -1,14 +1,14 @@
 
 ***
 
-<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">MOS 2 | 底层优化ing</font></td>
+<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">MOS 2 | 底层代码裂开来</font></td>
 
 ***
 
 # 目录
 
 <ul>
-  <li>MOS 2 | 底层优化ing</li>
+  <li>MOS 2 | 底层代码裂开来</li>
   <li>简介</li>
   <li>创作思路</li>
   <li>初衷</li>
@@ -17,11 +17,9 @@
 
 ***
 
-# MOS 2 | 底层优化ing
+# MOS 2 | 底层代码裂开来
 
 [先在这里求个 [投币](https://www.ccw.site/detail/601d373c9baa5d5383685e68?inviteCode=J3eGePeA4xoXIDno) QwQ]
-
-<font color="red">MOS 2 一周岁快乐！
 
 <font color="purple">在一个不知名的元旦前夕，MOS 2 迎来有史以来第一个正式版本，感谢一年来所有为我提供建议的 Scratcher 们！
   
@@ -29,7 +27,7 @@
 
 您也可以在 [GitHub](https://github.com/fengyec2/mos-2) 上给作者一个 Star
 
-当前版本工程文件大小：<font color="green">24.38MB，可放心食用
+当前版本工程文件大小：<font color="green">24MB，可放心食用
 
 ***
 
@@ -44,7 +42,7 @@
 
 `已上线功能` ：[计算器](https://github.com/fengyec2/mos-2)、[轻音乐](https://github.com/fengyec2/mos-2/)、[相机](https://github.com/fengyec2/mos-2/)、[用户中心](https://github.com/fengyec2/mos-2/)、[设置](https://github.com/fengyec2/mos-2/)、[应用市场](https://github.com/fengyec2/mos-2/)、[Color Hop](https://github.com/fengyec2/mos-2/)、[跳一跳](https://github.com/fengyec2/mos-2/)、[3D立方体](https://github.com/fengyec2/mos-2/)、[方块跑酷](https://github.com/fengyec2/mos-2/)、[画板](https://github.com/fengyec2/mos-2/)、[猫城](https://github.com/fengyec2/mos-2/)。
 
-`当前版本` ：[Release 2.2.1.048](https://github.com/fengyec2/mos-2/)，您将在这里见证MOS 2成长的点点滴滴
+`当前版本` ：[Release 2.3.1.048](https://github.com/fengyec2/mos-2/)，您将在这里见证MOS 2成长的点点滴滴
 
 `完整更新日志` ：[点击这里](https://github.com/fengyec2/mos-2/blob/main/Changelog)
 
