@@ -1,12 +1,12 @@
 <div><a name="top"></a></div>
 
 ***
-<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">MOS 2 | 底层代码裂开来</font></td>
+<td bgcolor="blue" data-xg_idx="99"> <font color="blue" size="6" data-xg_idx="19">MOS 2 | 弃繁，从简</font></td>
 
 ***
 # 目录
 <ul>
-  <li><a href="#a">MOS 2 | 底层代码裂开来河南</a></li>
+  <li><a href="#a">MOS 2 | 弃繁，从简</a></li>
   <li><a href="#b">简介</a></li>
   <li><a href="#c"><a href="#a"><a href="#a">创作思路</a></li>
   <li><a href="#d"><a href="#a">初衷</a></li>
@@ -14,14 +14,14 @@
 </ul>
 
 ***
-# <a name="a">MOS 2 | 底层代码裂开来</a>
+# <a name="a">MOS 2 | 弃繁，从简</a>
 [先在这里求个 [投币](https://www.ccw.site/detail/601d373c9baa5d5383685e68?inviteCode=J3eGePeA4xoXIDno) QwQ]
 
 <font color="purple">在一个不知名的元旦前夕，MOS 2 迎来有史以来第一个正式版本，感谢一年来所有为我提供建议的 Scratcher 们！
 
 <font color="red">作品以 [GPL v3](https://github.com/fengyec2/mos-2/blob/main/LICENSE) 协议开源，转载请注明出处！
 您也可以在 [GitHub](https://github.com/fengyec2/mos-2) 上给作者一个 Star
-当前版本工程文件大小：<font color="green">24.03MB，可放心食用
+当前版本工程文件大小：<font color="orange">24.1MB，工程文件较大，可在电脑上得到最佳体验
 
 ***
 # <a name="b">简介</a>
@@ -35,7 +35,7 @@
 
 `已上线功能` ：[计算器]()、[轻音乐]()、[相机]()、[用户中心]()、[设置]()、[应用市场]()、[Color Hop]()、[跳一跳]()、[3D立方体]()、[方块跑酷]()、[画板]()、[猫城]()。
 
-`当前版本` ：[Release 2.3.1.049]()，您将在这里见证 MOS 2 成长的点点滴滴
+`当前版本` ：[Release 2.3.2.050]()，您将在这里见证 MOS 2 成长的点点滴滴
 
 `完整更新日志` ：[点击这里](https://github.com/fengyec2/mos-2/blob/main/Changelog)
 
