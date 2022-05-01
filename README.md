@@ -21,7 +21,7 @@
 
 <font color="red">作品以 [GPL v3](https://github.com/fengyec2/mos-2/blob/main/LICENSE) 协议开源，转载请注明出处！
 您也可以在 [GitHub](https://github.com/fengyec2/mos-2) 上给作者一个 Star
-当前版本工程文件大小：<font color="orange">23.93MB，工程文件较大，可在电脑上得到最佳体验
+当前版本工程文件大小：<font color="orange">23.94MB，工程文件较大，可在电脑上获得最佳体验
 
 ***
 # <a name="b">简介</a>
@@ -35,7 +35,7 @@
 
 `已上线功能` ：[计算器]()、[轻音乐]()、[相机]()、[用户中心]()、[设置]()、[应用市场]()、[Color Hop]()、[跳一跳]()、[3D立方体]()、[方块跑酷]()、[画板]()、[猫城]()。
 
-`当前版本` ：[Release 2.3.2.054]()，您将在这里见证 MOS 2 成长的点点滴滴
+`当前版本` ：[Release 2.4.3.000]()，您将在这里见证 MOS 2 成长的点点滴滴
 
 `完整更新日志` ：[点击这里](https://github.com/fengyec2/mos-2/blob/main/Changelog)
 
