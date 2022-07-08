@@ -36,7 +36,7 @@
     <li>集成众多实用类工具及小游戏，让 MOS 2 更上一层楼</li>
     </ul> 
 <p>已上线功能：计算器、轻音乐、相机、用户中心、设置、应用市场、Color Hop、跳一跳、3D立方体、方块跑酷、画板、猫城</p>
-<p>当前版本：Release 2.4.4.000，您将在这里见证 MOS 2 成长的点点滴滴</p>
+<p>当前版本：Release 2.4.4.001，您将在这里见证 MOS 2 成长的点点滴滴</p>
 <p>完整更新日志：<a href="https://github.com/fengyec2/MOS_2/blob/main/Changelog" target="_blank">点击这里</a></p>
 
 ***
